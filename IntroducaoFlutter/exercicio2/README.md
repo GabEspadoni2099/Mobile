@@ -1,4 +1,3 @@
-# sa02_to_do_list
+# exercicio2
 
 A new Flutter project.
-
