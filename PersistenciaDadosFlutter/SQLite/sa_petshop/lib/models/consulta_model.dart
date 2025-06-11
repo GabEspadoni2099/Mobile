@@ -19,7 +19,7 @@ class Consulta {
 
   //métodos de Conversão
   // toMap Obj -> BD
-  Map<String,dynamic> toMap() ={
+  Map<String,dynamic> toMap() = {
     "id": id,
     "pet_id": petId,
     "data_hora": dataHora,
